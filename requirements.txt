@@ -1,6 +1,5 @@
 discord.py
-groq
+flask
 python-dotenv
-tavily-python
-fastapi
-uvicorn
+google-generativeai
+requests
